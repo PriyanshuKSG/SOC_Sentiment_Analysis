@@ -16,7 +16,7 @@ Welcome to **Week 1** of our **Sentiment Analysis** project! In this project, we
 3. **Pandas**: Pandas will be used extensively for data manipulation, including loading, cleaning, and transforming our dataset.
 
 ## **Getting Started:**
-1. **Setting Up Environment**:
+**Setting Up Environment**:
    - If you haven't already, install Jupyter Notebook or set up a Google Colab account.
    - Ensure NumPy and Pandas are installed in your Python environment. You can install them using pip:
      ```
