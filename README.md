@@ -22,5 +22,45 @@ Welcome to **Week 1** of our **Sentiment Analysis** project! In this project, we
      ```
      pip install numpy pandas
      ```
+# **Week 2: Data Pre-processing and Visualization**
+
+### **Resources:**
+1. **Matplotlib for Beginners**: [Watch Video](https://www.youtube.com/watch?v=OZOOLe2imFo)
+2. **Splitting into Training and Testing Datasets**: [Watch Video](https://www.youtube.com/watch?v=BUkqYGPnLZ8)
+3. **Normalization Techniques**: [Watch Video](https://www.youtube.com/watch?v=jMvlyoegui4)
+4. **Normalization using sklearn**: [Watch Video](https://www.youtube.com/watch?v=ZddUwo4R5ug)
+5. **Feature Selection**:
+   - [Watch Video](https://www.youtube.com/watch?v=EqLBAmtKMnQ)
+   - [Read Article](https://medium.com/geekculture/feature-selection-in-machine-learning-correlation-matrix-univariate-testing-rfecv-1186168fac12)
+
+### **Tasks:**
+1. **Data Pre-processing**: Learn how to clean and prepare your data for analysis.
+2. **Data Visualization**: Use Matplotlib to visualize your data.
+3. **Splitting Data**: Understand how to split your data into training and testing sets.
+4. **Normalization**: Learn and apply normalization techniques to your data.
+5. **Feature Selection**: Explore and apply feature selection methods.
+
+# **Week 3: Machine Learning Algorithms**
+
+### **Resources:**
+1. **Linear Regression**: [Watch Playlist](https://www.youtube.com/playlist?list=PLfFghEzKVmjsxY5ciwh27IyxuFymb798X)
+2. **Logistic Regression**: [Watch Playlist](https://www.youtube.com/playlist?list=PLfFghEzKVmjsF8ixJ-xKVuQayPWRH4Sp6)
+3. **Support Vector Machine**: [Watch First 4 Videos](https://www.youtube.com/watch?v=dAxxUfmvG2I&list=PLfFghEzKVmjvzS4DILijsdQk27Ew7xIPu&index=5)
+4. **K-Nearest Neighbour**: [Watch Video](https://www.youtube.com/watch?v=wKmEULDRszo)
+
+### **Tasks:**
+1. **Implement Algorithms**: Learn and implement the following algorithms using sklearn:
+   - Linear Regression
+   - Logistic Regression
+   - Support Vector Machine (SVM)
+   - K-Nearest Neighbour (KNN)
+2. **Using fit() and predict() Methods**: Explore how to use these methods in sklearn. Usually, it involves only a few lines of code.
+
+### **Classification Metrics:**
+1. **Accuracy, Precision, Recall**: [Read Article](https://www.evidentlyai.com/classification-metrics/accuracy-precision-recall#:~:text=Accuracy%20is%20a%20metric%20that,often%20the%20model%20is%20right%3F)
+2. **Confusion Matrix**: [Read Article](https://www.evidentlyai.com/classification-metrics/confusion-matrix)
+3. **F1 Score**: [Read Article](https://encord.com/blog/f1-score-in-machine-learning/#:~:text=A%20high%20F1%20score%20generally,has%20trouble%20striking%20that%20balance.)
+4. **R-Squared in Regression Analysis**: [Read Article](https://www.geeksforgeeks.org/ml-r-squared-in-regression-analysis/)
 
 **Happy coding!**
+
