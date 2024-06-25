@@ -62,5 +62,24 @@ Welcome to **Week 1** of our **Sentiment Analysis** project! In this project, we
 3. **F1 Score**: [Read Article](https://encord.com/blog/f1-score-in-machine-learning/#:~:text=A%20high%20F1%20score%20generally,has%20trouble%20striking%20that%20balance.)
 4. **R-Squared in Regression Analysis**: [Read Article](https://www.geeksforgeeks.org/ml-r-squared-in-regression-analysis/)
 
+#  Week 4: Deep Learning
+
+### Coursera Course Link
+- [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?&utm_medium=sem&utm_source=gg&utm_campaign=b2c_india_neural-networks-deep-learning_deeplearning.ai_ftcof_learn_arte_may-24_dr_sem_rsa_gads_lg-all&campaignid=21254051965&adgroupid=160484001823&device=c&keyword=neural%20networks%20and%20deep%20learning%20coursera&matchtype=b&network=g&devicemodel=&adposition=&creativeid=698134896937&hide_mobile_promo&gad_source=1&gclid=CjwKCAjwrvyxBhAbEiwAEg_KgskaJJSweYGV4Z5HBC4LXg4F6XC0bBYRJUEkHRDOKwEBWpjG7sPsRxoCYGoQAvD_BwE)
+
+### GitHub Repository
+- [Coursera Deep Learning Specialization](https://github.com/amanchadha/coursera-deep-learning-specialization/tree/master/C1%20-%20Neural%20Networks%20and%20Deep%20Learning)
+
+### Instructions
+1. Click on "Audit course" on the Coursera course page.
+2. Click on "Skip" to bypass any payment options.
+
+### Assignments and Quizzes
+- Review all assignments and quizzes available in the [GitHub repository](https://github.com/amanchadha/coursera-deep-learning-specialization/tree/master/C1%20-%20Neural%20Networks%20and%20Deep%20Learning).
+
+### Weekly Summary Assignment
+- Write a report/summary (not more than 150 words) of what you learned in this week.
+- Submit the PDF file of the summary on Teams before the deadline.
+
 **Happy coding!**
 
