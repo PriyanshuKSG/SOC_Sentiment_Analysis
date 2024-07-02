@@ -81,5 +81,45 @@ Welcome to **Week 1** of our **Sentiment Analysis** project! In this project, we
 - Write a report/summary (not more than 150 words) of what you learned in this week.
 - Submit the PDF file of the summary on Teams before the deadline.
 
-**Happy coding!**
+# Week 5: Natural Language Processing (NLP) Resources
+
+Welcome to Week 5 of our NLP course! This week, we will dive into various essential concepts and techniques in Natural Language Processing.
+
+## Resources
+
+### 1. Why NLP?
+Understand the importance and applications of NLP.
+- [Why NLP?](https://www.youtube.com/watch?v=CMrHM8a3hqw)
+
+### 2. Reading from and Writing to a File
+Learn how to handle file operations in Python.
+- [Reading from and writing to a file](https://www.youtube.com/watch?v=-CogPevWFRU)
+
+### 3. Regular Expressions (Regex)
+Explore regular expressions to handle pattern matching in text.
+- **Cheat sheet**: [Regex Cheat Sheet](https://ihateregex.io/cheatsheet)
+- **Notebook**: [Regex Notebook](https://drive.google.com/file/d/1789aqdy4Jiq-L2zEKYJC2EKiLlraYCpL/view?usp=sharing)
+- **Additional Resources**: Explore more on the internet.
+
+### 4. Stemming and Lemmatization
+Understand the techniques to reduce words to their root forms.
+- [Stemming and Lemmatization](https://www.youtube.com/watch?v=HHAilAC3cXw)
+
+### 5. Stop Words
+Learn about stop words and how to handle them in NLP tasks.
+- [Stop words](https://www.youtube.com/watch?v=vUPAOU2NPls)
+
+### 6. Part of Speech Tagging and Named Entity Recognition (NER)
+Learn how to tag parts of speech and recognize named entities in text.
+- [Part of Speech Tagging and NER - Video 1](https://www.youtube.com/watch?v=gdHWoQWZGkk&pp=ygU5UGFydCBvZiBzcGVlY2ggdGFnZ2luZyBhbmQgTmFtZWQgRW50aXR5IFJlY29nbml0aW9uIChORVIp)
+- [Part of Speech Tagging and NER - Video 2](https://www.youtube.com/watch?v=2XUhKpH0p4M)
+
+## Instructions
+1. Watch the videos in the order provided to build a solid understanding of each topic.
+2. Explore the Regex cheat sheet and notebook to get hands-on experience with regular expressions.
+3. Practice the concepts learned by implementing them in small projects or exercises.
+4. Feel free to explore additional resources on the internet for more in-depth knowledge.
+
+**Happy learning!**
+
 
