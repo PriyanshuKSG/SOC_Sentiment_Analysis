@@ -120,6 +120,75 @@ Learn how to tag parts of speech and recognize named entities in text.
 3. Practice the concepts learned by implementing them in small projects or exercises.
 4. Feel free to explore additional resources on the internet for more in-depth knowledge.
 
-**Happy learning!**
+# Sentiment Analysis SOC: Final Project
+
+## Overview
+This project involves performing sentiment analysis on the IMDB Dataset of 50K Movie Reviews. The task is to classify movie reviews as positive or negative using various NLP techniques and models.
+
+## Deliverables
+- A Python notebook (.ipynb file) or a Python (.py) file containing all the code for this project.
+
+## Dataset
+- [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+
+## Project Structure
+The project is divided into three phases:
+
+### Phase 1: Text Embeddings
+1. **Introduction to Text Embeddings**: Watch the video on text embeddings:
+   - [What are text embeddings?](https://www.youtube.com/watch?v=sNa_uiqSlJo&list=PLz-ep5RbHosU2hnz5ejezwaYpdMutMVB0&index=11)
+2. **Hugging Face**: Create an account on Hugging Face.
+   - [Hugging Face](https://huggingface.co/)
+3. **Generate Access Token**:
+   - Go to your profile, click on Settings, then Access Tokens, and create a new token. Copy the key (HF_TOKEN).
+4. **Using Text Embeddings**:
+   - Follow the example in this [notebook](https://colab.research.google.com/drive/1onJbU686qqjsFMFFasG_IY2-quxs9IZs?usp=drive_link) to understand how to use text embeddings.
+5. **Calculate Accuracy**:
+   - Use the text embeddings to calculate the accuracy of your model.
+
+### Phase 2: TF-IDF and Machine Learning Models
+1. **Data Splitting**: Split the dataset into training and testing sets.
+2. **TF-IDF**: Convert words to numerical representation using TF-IDF.
+3. **ML Models**: Use any three ML models from sklearn to classify the reviews. Report the best accuracy obtained.
+
+### Phase 3: Neural Network
+1. **Feed-Forward Neural Network**: Train a feed-forward neural network using TensorFlow or PyTorch.
+2. **Binary Classification**: Use TF-IDF for the binary classification task.
+3. **Model Evaluation**: Report the accuracy, check for overfitting, and implement strategies to prevent overfitting and improve test accuracy if necessary.
+
+## Steps
+1. **Load and Explore the Dataset**:
+   - Show how the dataset looks.
+   - Display one positive and one negative review.
+   - Plot a graph showing the distribution of positive and negative reviews.
+
+2. **Phase 1**:
+   - Follow the instructions to use text embeddings from Hugging Face.
+   - Calculate and report the accuracy.
+
+3. **Phase 2**:
+   - Split the data.
+   - Apply TF-IDF.
+   - Train three ML models and report their accuracies.
+
+4. **Phase 3**:
+   - Train a feed-forward neural network.
+   - Evaluate the model.
+   - Address overfitting and improve accuracy.
+
+## Usage
+1. Clone the repository.
+2. Ensure you have the necessary libraries installed.
+3. Run the notebook or Python script to perform the analysis.
+
+## Dependencies
+- Python 3.x
+- Libraries: pandas, numpy, matplotlib, seaborn, sklearn, tensorflow/pytorch, transformers, huggingface_hub
+
+## Contact
+For any queries, feel free to reach out to me. Use ChatGPT or other resources if you face any difficulties during the implementation.
+
+**Happy coding!**
+
 
 
